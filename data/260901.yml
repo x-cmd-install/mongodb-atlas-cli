@@ -1,0 +1,61 @@
+about:
+  description: MongoDB Atlas CLI enables you to manage your MongoDB in the Cloud
+  license: Apache-2.0
+  homepage: https://www.mongodb.com/docs/atlas/cli/stable/
+  head: 4fa6a71
+  archived: false
+  latestVersion: atlascli/v1.58.2
+  collectedAt: 2026-09-01T05:19:17Z
+timeline:
+  created: 2020-01-28
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-27
+popularity:
+  star: 186
+  watcher: 27
+  fork: 93
+  release: 174
+  contributor: 205
+  pullRequest: 440
+  issue: 129
+language:
+  Go: 3892740
+  Shell: 48928
+  Dockerfile: 19996
+  Makefile: 7637
+  Go Template: 6623
+  PowerShell: 1343
+totalLine: 3977267
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 3
+    mergedPR: 37
+    openPR: 5
+    closedIssue: 9
+    openIssue: 0
+    commit: 37
+  last90d:
+    since: 2026-06-03
+    release: 5
+    mergedPR: 99
+    openPR: 6
+    closedIssue: 16
+    openIssue: 0
+    commit: 104
+  last180d:
+    since: 2026-03-05
+    release: 10
+    mergedPR: 208
+    openPR: 6
+    closedIssue: 21
+    openIssue: 0
+    commit: 215
+  last360d:
+    since: 2025-09-06
+    release: 21
+    mergedPR: 452
+    openPR: 6
+    closedIssue: 51
+    openIssue: 0
+    commit: 449
