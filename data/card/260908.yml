@@ -1,0 +1,148 @@
+about:
+  description: "MongoDB Atlas CLI enables you to manage your MongoDB in the Cloud"
+  license: Apache-2.0
+  homepage: https://www.mongodb.com/docs/atlas/cli/stable/
+  head: b33de0d
+  archived: false
+  latestVersion: "atlascli/v1.58.2"
+  collectedAt: 2026-09-08T02:31:06Z
+timeline:
+  created: 2020-01-28
+  lastCommit: 2026-09-07
+  lastRelease: 2026-08-27
+popularity:
+  star: 185
+  watcher: 27
+  fork: 93
+  release: 174
+  contributor: 163
+  pullRequest: 4626
+  issue: 129
+language:
+  Go: 3898470
+  Shell: 48928
+  Dockerfile: 19996
+  Makefile: 7637
+  Go Template: 6623
+  PowerShell: 1343
+totalBytes: 3982997
+recent:
+  last30d:
+    since: 2026-08-09
+    release: 3
+    mergedPR: 43
+    openPR: 7
+    closedIssue: 2
+    openIssue: 0
+    commit: 33
+  last60d:
+    since: 2026-07-10
+    release: 4
+    mergedPR: 79
+    openPR: 7
+    closedIssue: 15
+    openIssue: 0
+    commit: 81
+  last90d:
+    since: 2026-06-10
+    release: 5
+    mergedPR: 103
+    openPR: 8
+    closedIssue: 16
+    openIssue: 0
+    commit: 109
+  last180d:
+    since: 2026-03-12
+    release: 9
+    mergedPR: 209
+    openPR: 8
+    closedIssue: 21
+    openIssue: 0
+    commit: 215
+  last360d:
+    since: 2025-09-13
+    release: 20
+    mergedPR: 442
+    openPR: 8
+    closedIssue: 50
+    openIssue: 0
+    commit: 448
+  last720d:
+    since: 2024-09-18
+    release: 53
+    mergedPR: 1277
+    openPR: 8
+    closedIssue: 61
+    openIssue: 0
+    commit: 1195
+total:
+  release: 174
+  mergedPR: 4183
+  openPR: 8
+  closedIssue: 129
+  openIssue: 0
+  commit: 4242
+---
+path: /home/runner/.x-repo/github.com/mongodb/mongodb-atlas-cli
+collectedAt: 2026-09-08T02:31:19Z
+loc:
+  Yaml:
+    code: 252088
+    comments: 41
+    blanks: 2000
+    files: 30
+  Go:
+    code: 167762
+    comments: 24169
+    blanks: 25160
+    files: 1461
+  Json:
+    code: 2630
+    comments: 0
+    blanks: 1
+    files: 53
+  Sh:
+    code: 999
+    comments: 525
+    blanks: 225
+    files: 393
+  Dockerfile:
+    code: 575
+    comments: 1
+    blanks: 164
+    files: 28
+  Makefile:
+    code: 163
+    comments: 2
+    blanks: 42
+    files: 1
+  PowerShell:
+    code: 25
+    comments: 2
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1329
+    blanks: 543
+    files: 46
+  Text:
+    code: 0
+    comments: 70650
+    blanks: 19386
+    files: 918
+total:
+  code: 424416
+  comments: 96720
+  blanks: 47522
+  files: 2931
+---
+
+---
+platform	name	url	size	score
+darwin/arm64	mongodb-atlas-cli_1.58.2_macos_arm64.zip	https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.58.2/mongodb-atlas-cli_1.58.2_macos_arm64.zip	17056782	45
+darwin/amd64	mongodb-atlas-cli_1.58.2_macos_x86_64.zip	https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.58.2/mongodb-atlas-cli_1.58.2_macos_x86_64.zip	18709640	45
+linux/arm64	mongodb-atlas-cli_1.58.2_linux_arm64.tar.gz	https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.58.2/mongodb-atlas-cli_1.58.2_linux_arm64.tar.gz	15950077	145
+linux/amd64	mongodb-atlas-cli_1.58.2_linux_x86_64.tar.gz	https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.58.2/mongodb-atlas-cli_1.58.2_linux_x86_64.tar.gz	17596931	45
+win/arm64			
+win/amd64	mongodb-atlas-cli_1.58.2_windows_x86_64.zip	https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.58.2/mongodb-atlas-cli_1.58.2_windows_x86_64.zip	18285265	45
