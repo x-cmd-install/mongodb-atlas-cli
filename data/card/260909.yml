@@ -2,15 +2,15 @@ about:
   description: "MongoDB Atlas CLI enables you to manage your MongoDB in the Cloud"
   license: Apache-2.0
   homepage: https://www.mongodb.com/docs/atlas/cli/stable/
-  head: d299b76
+  head: 7ec0c9f
   archived: false
   latestVersion: "atlascli/v1.58.2"
   latestRelease: "atlascli/v1.58.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:26:30Z
+  collectedAt: 2026-09-09T19:54:13Z
 timeline:
   created: 2020-01-28
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-08-27
   lastRelease: 2026-08-27
   lastPrerelease: 
@@ -20,83 +20,83 @@ popularity:
   fork: 93
   release: 174
   contributor: 163
-  pullRequest: 4628
+  pullRequest: 4629
   issue: 129
 language:
-  Go: 3917708
+  Go: 3917491
   Shell: 48928
-  Dockerfile: 19996
+  Dockerfile: 17514
   Makefile: 7637
   Go Template: 6623
   PowerShell: 1343
-totalBytes: 4002235
+totalBytes: 3999536
 recent:
   last30d:
     since: 2026-08-10
     release: 3
-    mergedPR: 51
+    mergedPR: 52
     openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 0
+    commit: 43
   last60d:
     since: 2026-07-11
     release: 4
-    mergedPR: 88
+    mergedPR: 89
     openPR: 0
     closedIssue: 15
     openIssue: 0
-    commit: 0
+    commit: 91
   last90d:
     since: 2026-06-11
     release: 5
-    mergedPR: 112
+    mergedPR: 113
     openPR: 1
     closedIssue: 16
     openIssue: 0
-    commit: 0
+    commit: 119
   last180d:
     since: 2026-03-13
     release: 9
-    mergedPR: 218
+    mergedPR: 219
     openPR: 1
     closedIssue: 21
     openIssue: 0
-    commit: 0
+    commit: 225
   last360d:
     since: 2025-09-14
     release: 20
-    mergedPR: 451
+    mergedPR: 452
     openPR: 1
     closedIssue: 50
     openIssue: 0
-    commit: 0
+    commit: 458
   last720d:
     since: 2024-09-19
     release: 53
-    mergedPR: 1286
+    mergedPR: 1287
     openPR: 1
     closedIssue: 61
     openIssue: 0
-    commit: 1203
+    commit: 1204
 total:
   release: 174
-  mergedPR: 4192
+  mergedPR: 4193
   openPR: 1
   closedIssue: 129
   openIssue: 0
-  commit: 4251
+  commit: 4252
 ---
 path: /home/runner/.x-repo/github.com/mongodb/mongodb-atlas-cli
-collectedAt: 2026-09-09T05:26:46Z
+collectedAt: 2026-09-09T19:54:28Z
 loc:
   Yaml:
-    code: 252096
+    code: 252061
     comments: 41
-    blanks: 2000
+    blanks: 1998
     files: 30
   Go:
-    code: 168164
+    code: 168155
     comments: 24211
     blanks: 25232
     files: 1462
@@ -111,10 +111,10 @@ loc:
     blanks: 225
     files: 393
   Dockerfile:
-    code: 575
+    code: 499
     comments: 1
-    blanks: 164
-    files: 28
+    blanks: 147
+    files: 25
   Makefile:
     code: 163
     comments: 2
@@ -136,10 +136,10 @@ loc:
     blanks: 19386
     files: 918
 total:
-  code: 424826
+  code: 424706
   comments: 96762
-  blanks: 47594
-  files: 2932
+  blanks: 47575
+  files: 2929
 ---
 
 ---
