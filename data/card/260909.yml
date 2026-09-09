@@ -1,0 +1,145 @@
+about:
+  description: "MongoDB Atlas CLI enables you to manage your MongoDB in the Cloud"
+  license: Apache-2.0
+  homepage: https://www.mongodb.com/docs/atlas/cli/stable/
+  head: d299b76
+  archived: false
+  latestVersion: "atlascli/v1.58.2"
+  latestRelease: "atlascli/v1.58.2"
+  latestPrerelease: ""
+  collectedAt: 2026-09-09T05:26:30Z
+timeline:
+  created: 2020-01-28
+  lastCommit: 2026-09-08
+  lastVersion: 2026-08-27
+  lastRelease: 2026-08-27
+  lastPrerelease: 
+popularity:
+  star: 185
+  watcher: 27
+  fork: 93
+  release: 174
+  contributor: 163
+  pullRequest: 4628
+  issue: 129
+language:
+  Go: 3917708
+  Shell: 48928
+  Dockerfile: 19996
+  Makefile: 7637
+  Go Template: 6623
+  PowerShell: 1343
+totalBytes: 4002235
+recent:
+  last30d:
+    since: 2026-08-10
+    release: 3
+    mergedPR: 51
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-11
+    release: 4
+    mergedPR: 88
+    openPR: 0
+    closedIssue: 15
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-11
+    release: 5
+    mergedPR: 112
+    openPR: 1
+    closedIssue: 16
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-13
+    release: 9
+    mergedPR: 218
+    openPR: 1
+    closedIssue: 21
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-14
+    release: 20
+    mergedPR: 451
+    openPR: 1
+    closedIssue: 50
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-09-19
+    release: 53
+    mergedPR: 1286
+    openPR: 1
+    closedIssue: 61
+    openIssue: 0
+    commit: 1203
+total:
+  release: 174
+  mergedPR: 4192
+  openPR: 1
+  closedIssue: 129
+  openIssue: 0
+  commit: 4251
+---
+path: /home/runner/.x-repo/github.com/mongodb/mongodb-atlas-cli
+collectedAt: 2026-09-09T05:26:46Z
+loc:
+  Yaml:
+    code: 252096
+    comments: 41
+    blanks: 2000
+    files: 30
+  Go:
+    code: 168164
+    comments: 24211
+    blanks: 25232
+    files: 1462
+  Json:
+    code: 2630
+    comments: 0
+    blanks: 1
+    files: 53
+  Sh:
+    code: 999
+    comments: 525
+    blanks: 225
+    files: 393
+  Dockerfile:
+    code: 575
+    comments: 1
+    blanks: 164
+    files: 28
+  Makefile:
+    code: 163
+    comments: 2
+    blanks: 42
+    files: 1
+  PowerShell:
+    code: 25
+    comments: 2
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1329
+    blanks: 543
+    files: 46
+  Text:
+    code: 0
+    comments: 70650
+    blanks: 19386
+    files: 918
+total:
+  code: 424826
+  comments: 96762
+  blanks: 47594
+  files: 2932
+---
+
+---
