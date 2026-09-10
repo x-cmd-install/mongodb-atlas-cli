@@ -7,7 +7,7 @@ about:
   latestVersion: "atlascli/v1.58.3"
   latestRelease: "atlascli/v1.58.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:43:39Z
+  collectedAt: 2026-09-10T23:05:47Z
 timeline:
   created: 2020-01-28
   lastCommit: 2026-09-10
@@ -88,7 +88,7 @@ total:
   commit: 4254
 ---
 path: /home/runner/.x-repo/github.com/mongodb/mongodb-atlas-cli
-collectedAt: 2026-09-10T20:43:56Z
+collectedAt: 2026-09-10T23:05:59Z
 loc:
   Yaml:
     code: 252061
