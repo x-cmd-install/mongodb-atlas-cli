@@ -1,0 +1,88 @@
+- repo: aur
+  srcname: mongodb-atlas-cli-bin
+  binname: mongodb-atlas-cli-bin
+  visiblename: mongodb-atlas-cli-bin
+  version: 1.58.2
+  origversion: 1.58.2-1
+  status: outdated
+  summary: MongoDB Atlas CLI
+  maintainers:
+    - ogarcia@aur
+  licenses:
+    - Apache-2.0
+- repo: chocolatey
+  binname: mongodb-atlas
+  visiblename: MongoDB Atlas CLI
+  version: 1.58.2
+  origversion: null
+  status: outdated
+  summary: The Atlas CLI is a unified command line tool for MongoDB Atlas
+- repo: homebrew
+  srcname: mongodb-atlas-cli
+  visiblename: mongodb-atlas-cli
+  version: 1.58.3
+  origversion: null
+  status: newest
+  summary: Atlas CLI enables you to manage your MongoDB Atlas
+- repo: homebrew
+  srcname: mongodb-atlas-cli
+  visiblename: mongodb-atlas-cli
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Atlas CLI enables you to manage your MongoDB Atlas
+- repo: nix_stable_25_05
+  srcname: mongodb-atlas-cli
+  visiblename: mongodb-atlas-cli
+  version: 1.44.0
+  origversion: null
+  status: outdated
+  summary: CLI utility to manage MongoDB Atlas from the terminal
+  maintainers:
+    - duhamelantoine1995@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: mongodb-atlas-cli
+  visiblename: mongodb-atlas-cli
+  version: 1.51.0
+  origversion: null
+  status: outdated
+  summary: CLI utility to manage MongoDB Atlas from the terminal
+  maintainers:
+    - duhamelantoine1995@gmail.com
+    - nixpkgs.yjzaw@slmail.me
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: mongodb-atlas-cli
+  visiblename: mongodb-atlas-cli
+  version: 1.54.0
+  origversion: null
+  status: outdated
+  summary: CLI utility to manage MongoDB Atlas from the terminal
+  maintainers:
+    - duhamelantoine1995@gmail.com
+    - iamanaws@httpd.dev
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: mongodb-atlas-cli
+  visiblename: mongodb-atlas-cli
+  version: 1.58.2
+  origversion: null
+  status: outdated
+  summary: CLI utility to manage MongoDB Atlas from the terminal
+  maintainers:
+    - iamanaws@httpd.dev
+  licenses:
+    - Apache-2.0
+- repo: scoop
+  subrepo: main
+  binname: mongodb-atlas-cli
+  visiblename: mongodb-atlas-cli
+  version: 1.58.2
+  origversion: null
+  status: outdated
+  licenses:
+    - Apache-2.0
