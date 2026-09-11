@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: mongodb-atlas-cli
+  visiblename: mongodb-atlas-cli
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Atlas CLI enables you to manage your MongoDB Atlas
 - repo: aur
   srcname: mongodb-atlas-cli-bin
   binname: mongodb-atlas-cli-bin
@@ -23,13 +30,6 @@
   version: 1.58.3
   origversion: null
   status: newest
-  summary: Atlas CLI enables you to manage your MongoDB Atlas
-- repo: homebrew
-  srcname: mongodb-atlas-cli
-  visiblename: mongodb-atlas-cli
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: Atlas CLI enables you to manage your MongoDB Atlas
 - repo: nix_stable_25_05
   srcname: mongodb-atlas-cli
@@ -81,8 +81,8 @@
   subrepo: main
   binname: mongodb-atlas-cli
   visiblename: mongodb-atlas-cli
-  version: 1.58.2
+  version: 1.58.3
   origversion: null
-  status: outdated
+  status: newest
   licenses:
     - Apache-2.0
