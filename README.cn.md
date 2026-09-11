@@ -48,12 +48,12 @@ x install mongodb-atlas-cli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 4 | 46 | 0 | 0 | 0 | 45 |
-| last60d | 2026-07-12 | 5 | 90 | 0 | 15 | 0 | 93 |
-| 90d | 2026-06-12 | 5 | 114 | 1 | 16 | 0 | 121 |
-| last180d | 2026-03-14 | 10 | 220 | 1 | 21 | 0 | 227 |
-| 360d | 2025-09-15 | 21 | 452 | 1 | 50 | 0 | 460 |
-| last720d | 2024-09-20 | 53 | 1285 | 1 | 61 | 0 | 1205 |
+| 30d | 2026-08-12 | 4 | 43 | 0 | 0 | 0 | 45 |
+| last60d | 2026-07-13 | 5 | 90 | 0 | 15 | 0 | 93 |
+| 90d | 2026-06-13 | 5 | 114 | 1 | 16 | 0 | 121 |
+| last180d | 2026-03-15 | 10 | 220 | 1 | 21 | 0 | 227 |
+| 360d | 2025-09-16 | 21 | 445 | 1 | 50 | 0 | 460 |
+| last720d | 2024-09-21 | 52 | 1285 | 1 | 61 | 0 | 1202 |
 
 ## Release 资产
 
@@ -89,11 +89,11 @@ x install mongodb-atlas-cli
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/mongodb-atlas-cli) 上共有 **9** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/mongodb-atlas-cli) 上共有 **9** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `1.58.3` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `1.58.2` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -105,4 +105,4 @@ mongodb-atlas-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T23:06:06Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T05:25:31Z._

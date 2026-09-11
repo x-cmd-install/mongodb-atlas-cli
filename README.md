@@ -48,12 +48,12 @@ Total: **424,532** lines of code across **1963** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 4 | 46 | 0 | 0 | 0 | 45 |
-| last60d | 2026-07-12 | 5 | 90 | 0 | 15 | 0 | 93 |
-| 90d | 2026-06-12 | 5 | 114 | 1 | 16 | 0 | 121 |
-| last180d | 2026-03-14 | 10 | 220 | 1 | 21 | 0 | 227 |
-| 360d | 2025-09-15 | 21 | 452 | 1 | 50 | 0 | 460 |
-| last720d | 2024-09-20 | 53 | 1285 | 1 | 61 | 0 | 1205 |
+| 30d | 2026-08-12 | 4 | 43 | 0 | 0 | 0 | 45 |
+| last60d | 2026-07-13 | 5 | 90 | 0 | 15 | 0 | 93 |
+| 90d | 2026-06-13 | 5 | 114 | 1 | 16 | 0 | 121 |
+| last180d | 2026-03-15 | 10 | 220 | 1 | 21 | 0 | 227 |
+| 360d | 2025-09-16 | 21 | 445 | 1 | 50 | 0 | 460 |
+| last720d | 2024-09-21 | 52 | 1285 | 1 | 61 | 0 | 1202 |
 
 ## Release assets
 
@@ -89,11 +89,11 @@ Total: **424,532** lines of code across **1963** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **9** distros on [repology.org](https://repology.org/project/mongodb-atlas-cli). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **9** distros on [repology.org](https://repology.org/project/mongodb-atlas-cli). **2** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `1.58.3` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `1.58.2` | ⚠️ outdated |
 
 ## Improve this data
@@ -105,4 +105,4 @@ Install metadata for mongodb-atlas-cli lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:06:05Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:25:31Z._
