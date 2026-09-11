@@ -38,7 +38,7 @@ Total: **424,532** lines of code across **1963** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 185 · **Forks**: 93 · **Open issues**: 129 · **Contributors**: 163
+- **Stars**: 185 · **Forks**: 93 · **Open issues**: 129 · **Contributors**: 164
 
 ## Totals (cumulative)
 
@@ -105,4 +105,4 @@ Install metadata for mongodb-atlas-cli lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:25:31Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:37:02Z._
