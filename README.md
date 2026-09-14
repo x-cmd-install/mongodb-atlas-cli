@@ -48,12 +48,12 @@ Total: **424,532** lines of code across **1963** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 41 | 0 | 0 | 0 | 37 |
-| last60d | 2026-07-15 | 5 | 81 | 0 | 15 | 0 | 78 |
-| 90d | 2026-06-15 | 5 | 114 | 1 | 16 | 0 | 116 |
-| last180d | 2026-03-17 | 10 | 214 | 1 | 21 | 0 | 216 |
-| 360d | 2025-09-18 | 21 | 444 | 1 | 50 | 0 | 450 |
-| last720d | 2024-09-23 | 52 | 1285 | 1 | 61 | 0 | 1202 |
+| 30d | 2026-08-15 | 3 | 41 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 5 | 81 | 0 | 15 | 0 | 0 |
+| 90d | 2026-06-16 | 5 | 111 | 1 | 16 | 0 | 0 |
+| last180d | 2026-03-18 | 10 | 213 | 1 | 21 | 0 | 0 |
+| 360d | 2025-09-19 | 21 | 439 | 1 | 50 | 0 | 0 |
+| last720d | 2024-09-24 | 52 | 1273 | 1 | 61 | 0 | 1201 |
 
 ## Release assets
 
@@ -87,15 +87,6 @@ Total: **424,532** lines of code across **1963** files in the top 5 languages.
 | [mongodb-atlas_1.58.3_linux_x86_64.rpm.sig](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.58.3/mongodb-atlas_1.58.3_linux_x86_64.rpm.sig) | 833 B | `native/linux/x64` |
 | [sbom.json](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.58.3/sbom.json) | 150.5 KiB | `other` |
 
-## Distribution status
-
-Reported by **9** distros on [repology.org](https://repology.org/project/mongodb-atlas-cli). **2** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `1.58.2` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for mongodb-atlas-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mongodb-atlas-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -105,4 +96,4 @@ Install metadata for mongodb-atlas-cli lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:30:39Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:40:37Z._
