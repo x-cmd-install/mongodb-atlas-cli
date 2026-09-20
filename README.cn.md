@@ -4,7 +4,7 @@
 
 MongoDB Atlas CLI enables you to manage your MongoDB in the Cloud
 
-![mongodb-atlas-cli](https://repo.x-cmd.io/mongodb-atlas-cli.svg?lang=zh)
+[![x-cmd/install — mongodb-atlas-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mongodb-atlas-cli.svg?lang=zh)](https://x-cmd.com/install/mongodb-atlas-cli)
 
 ## 安装
 
@@ -14,12 +14,12 @@ x install mongodb-atlas-cli
 
 ## 代码洞察
 
-合计: **425,151** 行代码（覆盖前 5 种语言、共 **1966** 个文件）。
+合计: **425,158** 行代码（覆盖前 5 种语言、共 **1966** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Yaml | 252,638 | 41 | 2,010 | 30 |
-| Go | 168,150 | 24,211 | 25,233 | 1462 |
+| Go | 168,157 | 24,211 | 25,233 | 1462 |
 | Json | 2,630 | 0 | 1 | 53 |
 | Sh | 999 | 525 | 225 | 393 |
 | Dockerfile | 546 | 1 | 166 | 28 |
@@ -33,7 +33,7 @@ x install mongodb-atlas-cli
 ## 发布
 
 - **最新版本**: `atlascli/v1.58.3` (2026-09-10)
-- **最近提交**: 2026-09-17
+- **最近提交**: 2026-09-18
 - **Release 含资产**: 27 个
 
 ## 流行度
@@ -42,18 +42,18 @@ x install mongodb-atlas-cli
 
 ## 累计统计
 
-- **发布数**: 175 · **已合并 PR**: 4210 · **开放 PR**: 6 · **已关闭 issue**: 129 · **开放 issue**: 0 · **提交数**: 4270
+- **发布数**: 175 · **已合并 PR**: 4212 · **开放 PR**: 5 · **已关闭 issue**: 129 · **开放 issue**: 0 · **提交数**: 4272
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 49 | 5 | 0 | 0 | 53 |
-| last60d | 2026-07-20 | 5 | 95 | 5 | 15 | 0 | 94 |
-| 90d | 2026-06-20 | 5 | 127 | 6 | 16 | 0 | 132 |
-| last180d | 2026-03-22 | 10 | 224 | 6 | 21 | 0 | 232 |
-| 360d | 2025-09-23 | 21 | 450 | 6 | 50 | 0 | 466 |
-| last720d | 2024-09-28 | 51 | 1283 | 6 | 61 | 0 | 1200 |
+| 30d | 2026-08-21 | 2 | 50 | 4 | 0 | 0 | 43 |
+| last60d | 2026-07-22 | 4 | 86 | 4 | 14 | 0 | 92 |
+| 90d | 2026-06-22 | 5 | 129 | 5 | 16 | 0 | 130 |
+| last180d | 2026-03-24 | 10 | 221 | 5 | 21 | 0 | 228 |
+| 360d | 2025-09-25 | 21 | 450 | 5 | 50 | 0 | 461 |
+| last720d | 2024-09-30 | 51 | 1285 | 5 | 61 | 0 | 1202 |
 
 ## Release 资产
 
@@ -96,4 +96,4 @@ mongodb-atlas-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:38:56Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:46:37Z._
