@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1500,
       "digest": "sha256:9f4611fddfb229ee9ea54ae11238b4b877dd8e5efb947c4af8651843d98872f2",
-      "download_count": 1210,
+      "download_count": 1595,
       "created_at": "2026-09-28T07:29:10Z",
       "updated_at": "2026-09-28T07:29:11Z",
       "browser_download_url": "https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:a1ad565a71f7c5286454cad9255d76f18169f974f6b4d838c4cc1094b79ee64f",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-28T07:29:18Z",
       "updated_at": "2026-09-28T07:29:18Z",
       "browser_download_url": "https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/checksums.txt.sig"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 16252096,
       "digest": "sha256:e92303c050a28be43feede8908f63c593eb00036c2611233f04807b3bd2a8df0",
-      "download_count": 12,
+      "download_count": 16,
       "created_at": "2026-09-28T07:29:04Z",
       "updated_at": "2026-09-28T07:29:05Z",
       "browser_download_url": "https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas-cli_1.59.0_linux_arm64.deb"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 16236578,
       "digest": "sha256:30be3c02e09c7aef6e17bfa59c2b4745fa4bd78a8e2efca071f9e7cc7773d9fa",
-      "download_count": 2807,
+      "download_count": 5047,
       "created_at": "2026-09-28T07:28:57Z",
       "updated_at": "2026-09-28T07:28:58Z",
       "browser_download_url": "https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas-cli_1.59.0_linux_arm64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 17931332,
       "digest": "sha256:18512646953de626595df631a6c2f29d10895d99682af1084b456a25b0de56d5",
-      "download_count": 6,
+      "download_count": 10,
       "created_at": "2026-09-28T07:29:02Z",
       "updated_at": "2026-09-28T07:29:03Z",
       "browser_download_url": "https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas-cli_1.59.0_linux_x86_64.deb"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 17900587,
       "digest": "sha256:c1d248fd506ab24f1362d2c8bc25f654445d056d586d062a91164970e9b85697",
-      "download_count": 2897,
+      "download_count": 5176,
       "created_at": "2026-09-28T07:28:56Z",
       "updated_at": "2026-09-28T07:28:57Z",
       "browser_download_url": "https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas-cli_1.59.0_linux_x86_64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:860479567ebb84e72c3195131d3529ce62cf51205b8eebb54305ba9fd80346e9",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-28T07:29:11Z",
       "updated_at": "2026-09-28T07:29:11Z",
       "browser_download_url": "https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas-cli_1.59.0_linux_x86_64.tar.gz.sig"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 17361359,
       "digest": "sha256:c31d0a0628d4ac02239d435aeed1dbc5b1a7ac622834b960431e72630f15bec2",
-      "download_count": 17,
+      "download_count": 26,
       "created_at": "2026-09-28T07:29:00Z",
       "updated_at": "2026-09-28T07:29:00Z",
       "browser_download_url": "https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas-cli_1.59.0_macos_arm64.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 19034344,
       "digest": "sha256:fac114dbdeaa36a57f8685caf4d2b725eab9a9d57eb3fd499a368e8f9d9ef11e",
-      "download_count": 9,
+      "download_count": 13,
       "created_at": "2026-09-28T07:28:58Z",
       "updated_at": "2026-09-28T07:28:59Z",
       "browser_download_url": "https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas-cli_1.59.0_macos_x86_64.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 18300928,
       "digest": "sha256:b1f4202a8d3f30d98a7e38b836a6a6eda8a8e3cda9aa31d12669485ba6cbfb44",
-      "download_count": 40,
+      "download_count": 59,
       "created_at": "2026-09-28T07:29:18Z",
       "updated_at": "2026-09-28T07:29:19Z",
       "browser_download_url": "https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas-cli_1.59.0_windows_x86_64.msi"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 18608508,
       "digest": "sha256:0a019994746fa2251d1bb7bfaa96acfb45bffa710ac5f9aca9f0a1d11b923cbe",
-      "download_count": 21,
+      "download_count": 25,
       "created_at": "2026-09-28T07:29:01Z",
       "updated_at": "2026-09-28T07:29:02Z",
       "browser_download_url": "https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas-cli_1.59.0_windows_x86_64.zip"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 155317,
       "digest": "sha256:1b7f379ae7721716d0397f83f19f02fe533f0e815834afde61f19292a3987cee",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-28T07:29:19Z",
       "updated_at": "2026-09-28T07:29:20Z",
       "browser_download_url": "https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/sbom.json"
