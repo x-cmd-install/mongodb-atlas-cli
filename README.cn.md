@@ -14,14 +14,14 @@ x install mongodb-atlas-cli
 
 ## 代码洞察
 
-合计: **429,347** 行代码（覆盖前 5 种语言、共 **1978** 个文件）。
+合计: **429,359** 行代码（覆盖前 5 种语言、共 **1978** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Yaml | 255,041 | 41 | 2,024 | 30 |
-| Go | 169,800 | 24,281 | 25,400 | 1463 |
+| Yaml | 255,037 | 41 | 2,024 | 30 |
+| Go | 169,817 | 24,283 | 25,403 | 1463 |
 | Json | 2,630 | 0 | 1 | 53 |
-| Sh | 1,006 | 539 | 224 | 398 |
+| Sh | 1,005 | 539 | 224 | 398 |
 | Dockerfile | 682 | 3 | 202 | 34 |
 
 ## 源代码
@@ -32,9 +32,9 @@ x install mongodb-atlas-cli
 
 ## 发布
 
-- **最新版本**: `atlascli/v1.59.0` (2026-09-28)
-- **最近提交**: 2026-10-08
-- **Release 含资产**: 27 个
+- **最新版本**: `atlascli/v1.59.1` (2026-10-09)
+- **最近提交**: 2026-10-09
+- **Release 含资产**: 23 个
 
 ## 流行度
 
@@ -42,50 +42,46 @@ x install mongodb-atlas-cli
 
 ## 累计统计
 
-- **发布数**: 176 · **已合并 PR**: 4259 · **开放 PR**: 3 · **已关闭 issue**: 129 · **开放 issue**: 0 · **提交数**: 4320
+- **发布数**: 178 · **已合并 PR**: 4278 · **开放 PR**: 3 · **已关闭 issue**: 129 · **开放 issue**: 0 · **提交数**: 4339
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 2 | 66 | 2 | 0 | 0 | 66 |
-| last60d | 2026-08-10 | 5 | 118 | 2 | 1 | 0 | 117 |
-| 90d | 2026-07-11 | 6 | 155 | 2 | 15 | 0 | 161 |
-| last180d | 2026-04-12 | 10 | 257 | 3 | 17 | 0 | 267 |
-| 360d | 2025-10-14 | 20 | 468 | 3 | 50 | 0 | 482 |
-| last720d | 2024-10-19 | 51 | 1290 | 3 | 60 | 0 | 1216 |
+| 30d | 2026-09-10 | 4 | 84 | 2 | 0 | 0 | 85 |
+| last60d | 2026-08-11 | 7 | 130 | 2 | 0 | 0 | 136 |
+| 90d | 2026-07-12 | 8 | 174 | 2 | 15 | 0 | 180 |
+| last180d | 2026-04-13 | 12 | 275 | 3 | 17 | 0 | 286 |
+| 360d | 2025-10-15 | 22 | 487 | 3 | 50 | 0 | 501 |
+| last720d | 2024-10-20 | 53 | 1309 | 3 | 60 | 0 | 1235 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/checksums.txt) | 1.5 KiB | `other` |
-| [checksums.txt.sig](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/checksums.txt.sig) | 833 B | `other` |
-| [mongodb-atlas-cli_1.59.0_linux_arm64.deb](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas-cli_1.59.0_linux_arm64.deb) | 15.5 MiB | `native/linux/arm64` |
-| [mongodb-atlas-cli_1.59.0_linux_arm64.deb.sig](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas-cli_1.59.0_linux_arm64.deb.sig) | 833 B | `native/linux/arm64` |
-| [mongodb-atlas-cli_1.59.0_linux_arm64.rpm](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas-cli_1.59.0_linux_arm64.rpm) | 16.1 MiB | `native/linux/arm64` |
-| [mongodb-atlas-cli_1.59.0_linux_arm64.rpm.sig](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas-cli_1.59.0_linux_arm64.rpm.sig) | 833 B | `native/linux/arm64` |
-| [mongodb-atlas-cli_1.59.0_linux_arm64.tar.gz](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas-cli_1.59.0_linux_arm64.tar.gz) | 15.5 MiB | `native/linux/arm64` |
-| [mongodb-atlas-cli_1.59.0_linux_arm64.tar.gz.sig](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas-cli_1.59.0_linux_arm64.tar.gz.sig) | 833 B | `native/linux/arm64` |
-| [mongodb-atlas-cli_1.59.0_linux_x86_64.deb](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas-cli_1.59.0_linux_x86_64.deb) | 17.1 MiB | `native/linux/x64` |
-| [mongodb-atlas-cli_1.59.0_linux_x86_64.deb.sig](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas-cli_1.59.0_linux_x86_64.deb.sig) | 833 B | `native/linux/x64` |
-| [mongodb-atlas-cli_1.59.0_linux_x86_64.rpm](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas-cli_1.59.0_linux_x86_64.rpm) | 17.9 MiB | `native/linux/x64` |
-| [mongodb-atlas-cli_1.59.0_linux_x86_64.rpm.sig](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas-cli_1.59.0_linux_x86_64.rpm.sig) | 833 B | `native/linux/x64` |
-| [mongodb-atlas-cli_1.59.0_linux_x86_64.tar.gz](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas-cli_1.59.0_linux_x86_64.tar.gz) | 17.1 MiB | `native/linux/x64` |
-| [mongodb-atlas-cli_1.59.0_linux_x86_64.tar.gz.sig](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas-cli_1.59.0_linux_x86_64.tar.gz.sig) | 833 B | `native/linux/x64` |
-| [mongodb-atlas-cli_1.59.0_macos_arm64.zip](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas-cli_1.59.0_macos_arm64.zip) | 16.6 MiB | `native/darwin/arm64` |
-| [mongodb-atlas-cli_1.59.0_macos_x86_64.zip](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas-cli_1.59.0_macos_x86_64.zip) | 18.2 MiB | `native/darwin/x64` |
-| [mongodb-atlas-cli_1.59.0_windows_x86_64.msi](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas-cli_1.59.0_windows_x86_64.msi) | 17.5 MiB | `native/win/x64` |
-| [mongodb-atlas-cli_1.59.0_windows_x86_64.zip](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas-cli_1.59.0_windows_x86_64.zip) | 17.7 MiB | `native/win/x64` |
-| [mongodb-atlas_1.59.0_linux_arm64.deb](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas_1.59.0_linux_arm64.deb) | 624 B | `native/linux/arm64` |
-| [mongodb-atlas_1.59.0_linux_arm64.deb.sig](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas_1.59.0_linux_arm64.deb.sig) | 833 B | `native/linux/arm64` |
-| [mongodb-atlas_1.59.0_linux_arm64.rpm](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas_1.59.0_linux_arm64.rpm) | 1.4 KiB | `native/linux/arm64` |
-| [mongodb-atlas_1.59.0_linux_arm64.rpm.sig](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas_1.59.0_linux_arm64.rpm.sig) | 833 B | `native/linux/arm64` |
-| [mongodb-atlas_1.59.0_linux_x86_64.deb](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas_1.59.0_linux_x86_64.deb) | 624 B | `native/linux/x64` |
-| [mongodb-atlas_1.59.0_linux_x86_64.deb.sig](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas_1.59.0_linux_x86_64.deb.sig) | 833 B | `native/linux/x64` |
-| [mongodb-atlas_1.59.0_linux_x86_64.rpm](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas_1.59.0_linux_x86_64.rpm) | 1.4 KiB | `native/linux/x64` |
-| [mongodb-atlas_1.59.0_linux_x86_64.rpm.sig](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/mongodb-atlas_1.59.0_linux_x86_64.rpm.sig) | 833 B | `native/linux/x64` |
-| [sbom.json](https://github.com/mongodb/mongodb-atlas-cli/releases/download/atlascli/v1.59.0/sbom.json) | 151.7 KiB | `other` |
+| [checksums.txt](https://github.com/mongodb/mongodb-atlas-cli/releases/download/v1.59.1/checksums.txt) | 1.3 KiB | `other` |
+| [checksums.txt.sig](https://github.com/mongodb/mongodb-atlas-cli/releases/download/v1.59.1/checksums.txt.sig) | 833 B | `other` |
+| [mongodb-atlas-cli_1.59.1_linux_arm64.deb](https://github.com/mongodb/mongodb-atlas-cli/releases/download/v1.59.1/mongodb-atlas-cli_1.59.1_linux_arm64.deb) | 15.6 MiB | `native/linux/arm64` |
+| [mongodb-atlas-cli_1.59.1_linux_arm64.deb.sig](https://github.com/mongodb/mongodb-atlas-cli/releases/download/v1.59.1/mongodb-atlas-cli_1.59.1_linux_arm64.deb.sig) | 833 B | `native/linux/arm64` |
+| [mongodb-atlas-cli_1.59.1_linux_arm64.rpm](https://github.com/mongodb/mongodb-atlas-cli/releases/download/v1.59.1/mongodb-atlas-cli_1.59.1_linux_arm64.rpm) | 15.6 MiB | `native/linux/arm64` |
+| [mongodb-atlas-cli_1.59.1_linux_arm64.rpm.sig](https://github.com/mongodb/mongodb-atlas-cli/releases/download/v1.59.1/mongodb-atlas-cli_1.59.1_linux_arm64.rpm.sig) | 833 B | `native/linux/arm64` |
+| [mongodb-atlas-cli_1.59.1_linux_arm64.tar.gz](https://github.com/mongodb/mongodb-atlas-cli/releases/download/v1.59.1/mongodb-atlas-cli_1.59.1_linux_arm64.tar.gz) | 15.7 MiB | `native/linux/arm64` |
+| [mongodb-atlas-cli_1.59.1_linux_arm64.tar.gz.sig](https://github.com/mongodb/mongodb-atlas-cli/releases/download/v1.59.1/mongodb-atlas-cli_1.59.1_linux_arm64.tar.gz.sig) | 833 B | `native/linux/arm64` |
+| [mongodb-atlas-cli_1.59.1_linux_x86_64.deb](https://github.com/mongodb/mongodb-atlas-cli/releases/download/v1.59.1/mongodb-atlas-cli_1.59.1_linux_x86_64.deb) | 17.2 MiB | `native/linux/x64` |
+| [mongodb-atlas-cli_1.59.1_linux_x86_64.deb.sig](https://github.com/mongodb/mongodb-atlas-cli/releases/download/v1.59.1/mongodb-atlas-cli_1.59.1_linux_x86_64.deb.sig) | 833 B | `native/linux/x64` |
+| [mongodb-atlas-cli_1.59.1_linux_x86_64.rpm](https://github.com/mongodb/mongodb-atlas-cli/releases/download/v1.59.1/mongodb-atlas-cli_1.59.1_linux_x86_64.rpm) | 17.3 MiB | `native/linux/x64` |
+| [mongodb-atlas-cli_1.59.1_linux_x86_64.rpm.sig](https://github.com/mongodb/mongodb-atlas-cli/releases/download/v1.59.1/mongodb-atlas-cli_1.59.1_linux_x86_64.rpm.sig) | 833 B | `native/linux/x64` |
+| [mongodb-atlas-cli_1.59.1_linux_x86_64.tar.gz](https://github.com/mongodb/mongodb-atlas-cli/releases/download/v1.59.1/mongodb-atlas-cli_1.59.1_linux_x86_64.tar.gz) | 17.3 MiB | `native/linux/x64` |
+| [mongodb-atlas-cli_1.59.1_linux_x86_64.tar.gz.sig](https://github.com/mongodb/mongodb-atlas-cli/releases/download/v1.59.1/mongodb-atlas-cli_1.59.1_linux_x86_64.tar.gz.sig) | 833 B | `native/linux/x64` |
+| [mongodb-atlas-cli_1.59.1_macos_arm64.zip](https://github.com/mongodb/mongodb-atlas-cli/releases/download/v1.59.1/mongodb-atlas-cli_1.59.1_macos_arm64.zip) | 16.8 MiB | `native/darwin/arm64` |
+| [mongodb-atlas-cli_1.59.1_macos_x86_64.zip](https://github.com/mongodb/mongodb-atlas-cli/releases/download/v1.59.1/mongodb-atlas-cli_1.59.1_macos_x86_64.zip) | 18.4 MiB | `native/darwin/x64` |
+| [mongodb-atlas-cli_1.59.1_windows_x86_64.msi](https://github.com/mongodb/mongodb-atlas-cli/releases/download/v1.59.1/mongodb-atlas-cli_1.59.1_windows_x86_64.msi) | 17.7 MiB | `native/win/x64` |
+| [mongodb-atlas-cli_1.59.1_windows_x86_64.zip](https://github.com/mongodb/mongodb-atlas-cli/releases/download/v1.59.1/mongodb-atlas-cli_1.59.1_windows_x86_64.zip) | 18.0 MiB | `native/win/x64` |
+| [mongodb-atlas_1.59.1_linux_all.deb](https://github.com/mongodb/mongodb-atlas-cli/releases/download/v1.59.1/mongodb-atlas_1.59.1_linux_all.deb) | 592 B | `other` |
+| [mongodb-atlas_1.59.1_linux_all.deb.sig](https://github.com/mongodb/mongodb-atlas-cli/releases/download/v1.59.1/mongodb-atlas_1.59.1_linux_all.deb.sig) | 833 B | `other` |
+| [mongodb-atlas_1.59.1_linux_all.rpm](https://github.com/mongodb/mongodb-atlas-cli/releases/download/v1.59.1/mongodb-atlas_1.59.1_linux_all.rpm) | 1.4 KiB | `other` |
+| [mongodb-atlas_1.59.1_linux_all.rpm.sig](https://github.com/mongodb/mongodb-atlas-cli/releases/download/v1.59.1/mongodb-atlas_1.59.1_linux_all.rpm.sig) | 833 B | `other` |
+| [sbom.json](https://github.com/mongodb/mongodb-atlas-cli/releases/download/v1.59.1/sbom.json) | 149.9 KiB | `other` |
 
 ## 改进这些数据
 
@@ -96,4 +92,4 @@ mongodb-atlas-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261009.yml` · 2026-10-09T06:41:35Z._
+_数据快照: `data/card/261010.yml` · 2026-10-10T06:19:01Z._
