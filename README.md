@@ -14,12 +14,12 @@ x install mongodb-atlas-cli
 
 ## Code insight
 
-Total: **429,359** lines of code across **1978** files in the top 5 languages.
+Total: **429,587** lines of code across **1979** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Yaml | 255,037 | 41 | 2,024 | 30 |
-| Go | 169,817 | 24,283 | 25,403 | 1463 |
+| Yaml | 255,050 | 41 | 2,024 | 30 |
+| Go | 170,032 | 24,301 | 25,449 | 1464 |
 | Json | 2,630 | 0 | 1 | 53 |
 | Sh | 1,005 | 539 | 224 | 398 |
 | Dockerfile | 682 | 3 | 202 | 34 |
@@ -33,27 +33,27 @@ Total: **429,359** lines of code across **1978** files in the top 5 languages.
 ## Release
 
 - **Latest**: `atlascli/v1.59.1` (2026-10-09)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-12
 - **Assets in release**: 23
 
 ## Popularity
 
-- **Stars**: 187 · **Forks**: 93 · **Open issues**: 129 · **Contributors**: 165
+- **Stars**: 187 · **Forks**: 93 · **Open issues**: 129 · **Contributors**: 164
 
 ## Totals (cumulative)
 
-- **Releases**: 178 · **Merged PRs**: 4278 · **Open PRs**: 3 · **Closed issues**: 129 · **Open issues**: 0 · **Commits**: 4339
+- **Releases**: 178 · **Merged PRs**: 4282 · **Open PRs**: 11 · **Closed issues**: 129 · **Open issues**: 0 · **Commits**: 4343
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 3 | 84 | 2 | 0 | 0 | 69 |
-| last60d | 2026-08-13 | 6 | 126 | 2 | 0 | 0 | 127 |
-| 90d | 2026-07-14 | 8 | 167 | 2 | 15 | 0 | 173 |
-| last180d | 2026-04-15 | 11 | 264 | 3 | 17 | 0 | 271 |
-| 360d | 2025-10-17 | 22 | 486 | 3 | 50 | 0 | 498 |
-| last720d | 2024-10-22 | 53 | 1303 | 3 | 60 | 0 | 1233 |
+| 30d | 2026-09-13 | 3 | 88 | 10 | 0 | 0 | 73 |
+| last60d | 2026-08-14 | 6 | 129 | 10 | 0 | 0 | 131 |
+| 90d | 2026-07-15 | 8 | 169 | 10 | 15 | 0 | 177 |
+| last180d | 2026-04-16 | 11 | 265 | 11 | 17 | 0 | 275 |
+| 360d | 2025-10-18 | 22 | 490 | 11 | 50 | 0 | 502 |
+| last720d | 2024-10-23 | 53 | 1306 | 11 | 60 | 0 | 1233 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for mongodb-atlas-cli lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:40:55Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:27:23Z._
