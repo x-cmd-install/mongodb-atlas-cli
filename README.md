@@ -33,27 +33,27 @@ Total: **429,587** lines of code across **1979** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.59.2` (2026-10-13)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-14
 - **Assets in release**: 23
 
 ## Popularity
 
-- **Stars**: 187 · **Forks**: 93 · **Open issues**: 129 · **Contributors**: 164
+- **Stars**: 187 · **Forks**: 93 · **Open issues**: 129 · **Contributors**: 165
 
 ## Totals (cumulative)
 
-- **Releases**: 179 · **Merged PRs**: 4288 · **Open PRs**: 3 · **Closed issues**: 129 · **Open issues**: 0 · **Commits**: 4349
+- **Releases**: 179 · **Merged PRs**: 4292 · **Open PRs**: 4 · **Closed issues**: 129 · **Open issues**: 0 · **Commits**: 4353
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 4 | 90 | 2 | 0 | 0 | 79 |
-| last60d | 2026-08-15 | 7 | 135 | 2 | 0 | 0 | 137 |
-| 90d | 2026-07-16 | 9 | 175 | 2 | 15 | 0 | 183 |
-| last180d | 2026-04-17 | 12 | 271 | 3 | 17 | 0 | 281 |
-| 360d | 2025-10-19 | 23 | 496 | 3 | 50 | 0 | 508 |
-| last720d | 2024-10-24 | 54 | 1311 | 3 | 60 | 0 | 1237 |
+| 30d | 2026-09-15 | 4 | 82 | 3 | 0 | 0 | 83 |
+| last60d | 2026-08-16 | 7 | 139 | 3 | 0 | 0 | 141 |
+| 90d | 2026-07-17 | 9 | 179 | 3 | 15 | 0 | 187 |
+| last180d | 2026-04-18 | 12 | 275 | 4 | 17 | 0 | 285 |
+| 360d | 2025-10-20 | 23 | 500 | 4 | 50 | 0 | 512 |
+| last720d | 2024-10-25 | 54 | 1315 | 4 | 60 | 0 | 1240 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for mongodb-atlas-cli lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:34:30Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:17:11Z._
