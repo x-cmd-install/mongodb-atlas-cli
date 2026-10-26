@@ -1,14 +1,3 @@
-- repo: nix_stable_25_05
-  srcname: mongodb-atlas-cli
-  visiblename: mongodb-atlas-cli
-  version: 1.44.0
-  origversion: null
-  status: outdated
-  summary: CLI utility to manage MongoDB Atlas from the terminal
-  maintainers:
-    - duhamelantoine1995@gmail.com
-  licenses:
-    - Apache-2.0
 - repo: aur
   srcname: mongodb-atlas-cli-bin
   binname: mongodb-atlas-cli-bin
@@ -24,9 +13,9 @@
 - repo: chocolatey
   binname: mongodb-atlas
   visiblename: MongoDB Atlas CLI
-  version: 1.59.2
+  version: 1.59.3
   origversion: null
-  status: outdated
+  status: newest
   summary: The Atlas CLI is a unified command line tool for MongoDB Atlas
 - repo: homebrew
   srcname: mongodb-atlas-cli
@@ -42,6 +31,17 @@
   origversion: null
   status: rolling
   summary: Atlas CLI enables you to manage your MongoDB Atlas
+- repo: nix_stable_25_05
+  srcname: mongodb-atlas-cli
+  visiblename: mongodb-atlas-cli
+  version: 1.44.0
+  origversion: null
+  status: outdated
+  summary: CLI utility to manage MongoDB Atlas from the terminal
+  maintainers:
+    - duhamelantoine1995@gmail.com
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_25_11
   srcname: mongodb-atlas-cli
   visiblename: mongodb-atlas-cli
