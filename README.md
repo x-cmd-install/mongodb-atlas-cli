@@ -48,12 +48,12 @@ Total: **433,502** lines of code across **1991** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 5 | 89 | 1 | 0 | 0 | 92 |
-| last60d | 2026-08-26 | 7 | 142 | 2 | 0 | 0 | 147 |
-| 90d | 2026-07-27 | 9 | 185 | 2 | 13 | 0 | 193 |
-| last180d | 2026-04-28 | 12 | 285 | 3 | 17 | 0 | 301 |
-| 360d | 2025-10-30 | 23 | 503 | 3 | 25 | 0 | 519 |
-| last720d | 2024-11-04 | 54 | 1316 | 3 | 59 | 0 | 1243 |
+| 30d | 2026-09-26 | 5 | 89 | 1 | 0 | 0 | 77 |
+| last60d | 2026-08-27 | 7 | 142 | 2 | 0 | 0 | 141 |
+| 90d | 2026-07-28 | 9 | 177 | 2 | 13 | 0 | 188 |
+| last180d | 2026-04-29 | 12 | 282 | 3 | 17 | 0 | 290 |
+| 360d | 2025-10-31 | 23 | 503 | 3 | 25 | 0 | 513 |
+| last720d | 2024-11-05 | 54 | 1309 | 3 | 59 | 0 | 1241 |
 
 ## Release assets
 
@@ -85,7 +85,7 @@ Total: **433,502** lines of code across **1991** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **9** distros on [repology.org](https://repology.org/project/mongodb-atlas-cli). **3** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+Reported by **9** distros on [repology.org](https://repology.org/project/mongodb-atlas-cli). **4** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -101,4 +101,4 @@ Install metadata for mongodb-atlas-cli lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:10:09Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:21:39Z._
