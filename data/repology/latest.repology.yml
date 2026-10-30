@@ -4,7 +4,7 @@
   visiblename: mongodb-atlas-cli-bin
   version: 1.59.3
   origversion: 1.59.3-1
-  status: newest
+  status: outdated
   summary: MongoDB Atlas CLI
   maintainers:
     - ogarcia@aur
@@ -15,12 +15,12 @@
   visiblename: MongoDB Atlas CLI
   version: 1.59.3
   origversion: null
-  status: newest
+  status: outdated
   summary: The Atlas CLI is a unified command line tool for MongoDB Atlas
 - repo: homebrew
   srcname: mongodb-atlas-cli
   visiblename: mongodb-atlas-cli
-  version: 1.59.3
+  version: 1.59.4
   origversion: null
   status: newest
   summary: Atlas CLI enables you to manage your MongoDB Atlas
@@ -83,6 +83,6 @@
   visiblename: mongodb-atlas-cli
   version: 1.59.3
   origversion: null
-  status: newest
+  status: outdated
   licenses:
     - Apache-2.0
