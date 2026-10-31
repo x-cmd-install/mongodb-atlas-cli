@@ -2,9 +2,9 @@
   srcname: mongodb-atlas-cli-bin
   binname: mongodb-atlas-cli-bin
   visiblename: mongodb-atlas-cli-bin
-  version: 1.59.3
-  origversion: 1.59.3-1
-  status: outdated
+  version: 1.59.4
+  origversion: 1.59.4-1
+  status: newest
   summary: MongoDB Atlas CLI
   maintainers:
     - ogarcia@aur
@@ -81,8 +81,8 @@
   subrepo: main
   binname: mongodb-atlas-cli
   visiblename: mongodb-atlas-cli
-  version: 1.59.3
+  version: 1.59.4
   origversion: null
-  status: outdated
+  status: newest
   licenses:
     - Apache-2.0
