@@ -48,12 +48,12 @@ Total: **433,507** lines of code across **1991** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 5 | 89 | 2 | 0 | 0 | 92 |
-| last60d | 2026-09-01 | 7 | 147 | 3 | 0 | 0 | 156 |
-| 90d | 2026-08-02 | 10 | 191 | 3 | 9 | 0 | 203 |
-| last180d | 2026-05-04 | 13 | 296 | 4 | 16 | 0 | 305 |
-| 360d | 2025-11-05 | 24 | 512 | 4 | 24 | 0 | 528 |
-| last720d | 2024-11-10 | 54 | 1318 | 4 | 59 | 0 | 1247 |
+| 30d | 2026-10-02 | 5 | 84 | 2 | 0 | 0 | 68 |
+| last60d | 2026-09-02 | 7 | 145 | 3 | 0 | 0 | 137 |
+| 90d | 2026-08-03 | 10 | 191 | 3 | 8 | 0 | 192 |
+| last180d | 2026-05-05 | 13 | 288 | 4 | 16 | 0 | 296 |
+| 360d | 2025-11-06 | 24 | 512 | 4 | 24 | 0 | 524 |
+| last720d | 2024-11-11 | 54 | 1317 | 4 | 59 | 0 | 1247 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for mongodb-atlas-cli lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:10:32Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:44:41Z._
