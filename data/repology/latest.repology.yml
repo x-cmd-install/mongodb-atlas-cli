@@ -13,9 +13,9 @@
 - repo: chocolatey
   binname: mongodb-atlas
   visiblename: MongoDB Atlas CLI
-  version: 1.59.3
+  version: 1.59.4
   origversion: null
-  status: outdated
+  status: newest
   summary: The Atlas CLI is a unified command line tool for MongoDB Atlas
 - repo: homebrew
   srcname: mongodb-atlas-cli
