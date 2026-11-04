@@ -14,12 +14,12 @@ x install mongodb-atlas-cli
 
 ## Code insight
 
-Total: **439,382** lines of code across **2003** files in the top 5 languages.
+Total: **438,764** lines of code across **2002** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Yaml | 261,134 | 41 | 2,040 | 33 |
-| Go | 173,482 | 24,344 | 25,722 | 1466 |
+| Yaml | 261,165 | 41 | 2,040 | 33 |
+| Go | 172,838 | 24,341 | 25,583 | 1465 |
 | Json | 2,657 | 0 | 1 | 54 |
 | Sh | 1,022 | 539 | 224 | 415 |
 | Dockerfile | 685 | 4 | 203 | 35 |
@@ -38,22 +38,22 @@ Total: **439,382** lines of code across **2003** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 188 · **Forks**: 93 · **Open issues**: 129 · **Contributors**: 165
+- **Stars**: 188 · **Forks**: 93 · **Open issues**: 129 · **Contributors**: 164
 
 ## Totals (cumulative)
 
-- **Releases**: 181 · **Merged PRs**: 4337 · **Open PRs**: 7 · **Closed issues**: 129 · **Open issues**: 0 · **Commits**: 4398
+- **Releases**: 181 · **Merged PRs**: 4345 · **Open PRs**: 3 · **Closed issues**: 129 · **Open issues**: 0 · **Commits**: 4405
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 5 | 94 | 6 | 0 | 0 | 78 |
-| last60d | 2026-09-04 | 7 | 154 | 7 | 0 | 0 | 147 |
-| 90d | 2026-08-05 | 10 | 197 | 7 | 6 | 0 | 202 |
-| last180d | 2026-05-07 | 13 | 298 | 7 | 16 | 0 | 306 |
-| 360d | 2025-11-08 | 24 | 522 | 7 | 24 | 0 | 534 |
-| last720d | 2024-11-13 | 54 | 1318 | 7 | 59 | 0 | 1251 |
+| 30d | 2026-10-05 | 5 | 95 | 3 | 0 | 0 | 85 |
+| last60d | 2026-09-05 | 7 | 162 | 3 | 0 | 0 | 154 |
+| 90d | 2026-08-06 | 10 | 205 | 3 | 5 | 0 | 209 |
+| last180d | 2026-05-08 | 13 | 306 | 3 | 16 | 0 | 313 |
+| 360d | 2025-11-09 | 24 | 530 | 3 | 24 | 0 | 541 |
+| last720d | 2024-11-14 | 54 | 1325 | 3 | 59 | 0 | 1257 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for mongodb-atlas-cli lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:33:15Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:07:38Z._
