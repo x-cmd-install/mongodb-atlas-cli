@@ -81,8 +81,8 @@
   subrepo: main
   binname: mongodb-atlas-cli
   visiblename: mongodb-atlas-cli
-  version: 1.59.4
+  version: 1.60.0
   origversion: null
-  status: outdated
+  status: newest
   licenses:
     - Apache-2.0
