@@ -38,7 +38,7 @@ Total: **444,554** lines of code across **2108** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 188 · **Forks**: 93 · **Open issues**: 129 · **Contributors**: 164
+- **Stars**: 188 · **Forks**: 92 · **Open issues**: 129 · **Contributors**: 164
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **444,554** lines of code across **2108** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 3 | 81 | 4 | 0 | 0 | 59 |
-| last60d | 2026-09-16 | 7 | 167 | 4 | 0 | 0 | 153 |
-| 90d | 2026-08-17 | 10 | 223 | 4 | 0 | 0 | 212 |
-| last180d | 2026-05-19 | 14 | 328 | 4 | 16 | 0 | 324 |
-| 360d | 2025-11-20 | 25 | 548 | 4 | 24 | 0 | 545 |
-| last720d | 2024-11-25 | 54 | 1340 | 4 | 59 | 0 | 1267 |
+| 30d | 2026-10-17 | 3 | 81 | 4 | 0 | 0 | 59 |
+| last60d | 2026-09-17 | 7 | 166 | 4 | 0 | 0 | 153 |
+| 90d | 2026-08-18 | 10 | 219 | 4 | 0 | 0 | 212 |
+| last180d | 2026-05-20 | 14 | 326 | 4 | 16 | 0 | 324 |
+| 360d | 2025-11-21 | 24 | 547 | 4 | 24 | 0 | 545 |
+| last720d | 2024-11-26 | 54 | 1328 | 4 | 59 | 0 | 1266 |
 
 ## Release assets
 
@@ -85,7 +85,7 @@ Total: **444,554** lines of code across **2108** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **9** distros on [repology.org](https://repology.org/project/mongodb-atlas-cli). **2** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+Reported by **9** distros on [repology.org](https://repology.org/project/mongodb-atlas-cli). **3** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -101,4 +101,4 @@ Install metadata for mongodb-atlas-cli lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:16:49Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:28:29Z._
