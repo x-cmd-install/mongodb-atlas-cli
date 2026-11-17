@@ -33,27 +33,27 @@ Total: **444,554** lines of code across **2108** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.60.0` (2026-11-12)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-17
 - **Assets in release**: 23
 
 ## Popularity
 
-- **Stars**: 188 · **Forks**: 92 · **Open issues**: 129 · **Contributors**: 164
+- **Stars**: 188 · **Forks**: 93 · **Open issues**: 129 · **Contributors**: 164
 
 ## Totals (cumulative)
 
-- **Releases**: 182 · **Merged PRs**: 4379 · **Open PRs**: 4 · **Closed issues**: 129 · **Open issues**: 0 · **Commits**: 4432
+- **Releases**: 182 · **Merged PRs**: 4391 · **Open PRs**: 4 · **Closed issues**: 129 · **Open issues**: 0 · **Commits**: 4444
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 3 | 81 | 4 | 0 | 0 | 59 |
-| last60d | 2026-09-17 | 7 | 166 | 4 | 0 | 0 | 153 |
-| 90d | 2026-08-18 | 10 | 219 | 4 | 0 | 0 | 212 |
-| last180d | 2026-05-20 | 14 | 326 | 4 | 16 | 0 | 324 |
-| 360d | 2025-11-21 | 24 | 547 | 4 | 24 | 0 | 545 |
-| last720d | 2024-11-26 | 54 | 1328 | 4 | 59 | 0 | 1266 |
+| 30d | 2026-10-18 | 3 | 93 | 4 | 0 | 0 | 71 |
+| last60d | 2026-09-18 | 7 | 177 | 4 | 0 | 0 | 165 |
+| 90d | 2026-08-19 | 10 | 230 | 4 | 0 | 0 | 224 |
+| last180d | 2026-05-21 | 14 | 337 | 4 | 16 | 0 | 336 |
+| 360d | 2025-11-22 | 24 | 559 | 4 | 24 | 0 | 557 |
+| last720d | 2024-11-27 | 54 | 1338 | 4 | 59 | 0 | 1271 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for mongodb-atlas-cli lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:28:29Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:55:32Z._
