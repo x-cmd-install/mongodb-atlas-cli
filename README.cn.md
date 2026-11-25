@@ -14,12 +14,12 @@ x install mongodb-atlas-cli
 
 ## 代码洞察
 
-合计: **444,987** 行代码（覆盖前 5 种语言、共 **2108** 个文件）。
+合计: **445,009** 行代码（覆盖前 5 种语言、共 **2108** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Yaml | 263,083 | 35 | 2,052 | 124 |
-| Go | 177,133 | 24,722 | 26,197 | 1477 |
+| Yaml | 263,095 | 35 | 2,052 | 124 |
+| Go | 177,143 | 24,722 | 26,195 | 1477 |
 | Json | 2,657 | 0 | 1 | 54 |
 | Sh | 1,032 | 539 | 222 | 418 |
 | Dockerfile | 685 | 4 | 203 | 35 |
@@ -42,18 +42,18 @@ x install mongodb-atlas-cli
 
 ## 累计统计
 
-- **发布数**: 183 · **已合并 PR**: 4402 · **开放 PR**: 7 · **已关闭 issue**: 129 · **开放 issue**: 0 · **提交数**: 4455
+- **发布数**: 183 · **已合并 PR**: 4409 · **开放 PR**: 2 · **已关闭 issue**: 129 · **开放 issue**: 0 · **提交数**: 4462
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 3 | 89 | 7 | 0 | 0 | 68 |
-| last60d | 2026-09-25 | 8 | 179 | 7 | 0 | 0 | 162 |
-| 90d | 2026-08-26 | 10 | 232 | 7 | 0 | 0 | 224 |
-| last180d | 2026-05-28 | 14 | 339 | 7 | 16 | 0 | 340 |
-| 360d | 2025-11-29 | 25 | 563 | 7 | 24 | 0 | 562 |
-| last720d | 2024-12-04 | 55 | 1328 | 7 | 59 | 0 | 1268 |
+| 30d | 2026-10-26 | 3 | 96 | 2 | 0 | 0 | 75 |
+| last60d | 2026-09-26 | 8 | 186 | 2 | 0 | 0 | 169 |
+| 90d | 2026-08-27 | 10 | 239 | 2 | 0 | 0 | 231 |
+| last180d | 2026-05-29 | 14 | 346 | 2 | 16 | 0 | 347 |
+| 360d | 2025-11-30 | 25 | 570 | 2 | 24 | 0 | 569 |
+| last720d | 2024-12-05 | 54 | 1334 | 2 | 59 | 0 | 1273 |
 
 ## Release 资产
 
@@ -83,15 +83,6 @@ x install mongodb-atlas-cli
 | [mongodb-atlas_1.60.1_linux_all.rpm.sig](https://github.com/mongodb/mongodb-atlas-cli/releases/download/v1.60.1/mongodb-atlas_1.60.1_linux_all.rpm.sig) | 833 B | `other` |
 | [sbom.json](https://github.com/mongodb/mongodb-atlas-cli/releases/download/v1.60.1/sbom.json) | 151.4 KiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/mongodb-atlas-cli) 上共有 **9** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `1.60.1` | ✅ latest |
-| Nix unstable | `1.59.1` | ⚠️ outdated |
-
 ## 改进这些数据
 
 mongodb-atlas-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `mongodb-atlas-cli` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -101,4 +92,4 @@ mongodb-atlas-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:19:32Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:59:48Z._
