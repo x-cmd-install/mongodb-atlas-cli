@@ -42,18 +42,18 @@ Total: **445,009** lines of code across **2108** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 183 · **Merged PRs**: 4409 · **Open PRs**: 2 · **Closed issues**: 129 · **Open issues**: 0 · **Commits**: 4462
+- **Releases**: 183 · **Merged PRs**: 4409 · **Open PRs**: 5 · **Closed issues**: 129 · **Open issues**: 0 · **Commits**: 4462
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 3 | 96 | 2 | 0 | 0 | 75 |
-| last60d | 2026-09-26 | 8 | 186 | 2 | 0 | 0 | 169 |
-| 90d | 2026-08-27 | 10 | 239 | 2 | 0 | 0 | 231 |
-| last180d | 2026-05-29 | 14 | 346 | 2 | 16 | 0 | 347 |
-| 360d | 2025-11-30 | 25 | 570 | 2 | 24 | 0 | 569 |
-| last720d | 2024-12-05 | 54 | 1334 | 2 | 59 | 0 | 1273 |
+| 30d | 2026-10-27 | 3 | 87 | 5 | 0 | 0 | 75 |
+| last60d | 2026-09-27 | 8 | 186 | 5 | 0 | 0 | 169 |
+| 90d | 2026-08-28 | 9 | 236 | 5 | 0 | 0 | 231 |
+| last180d | 2026-05-30 | 14 | 346 | 5 | 16 | 0 | 347 |
+| 360d | 2025-12-01 | 25 | 569 | 5 | 24 | 0 | 569 |
+| last720d | 2024-12-06 | 54 | 1332 | 5 | 59 | 0 | 1272 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for mongodb-atlas-cli lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:59:48Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:57:11Z._
